@@ -1,0 +1,7 @@
+print("one time Keagan and his friends went down to the beach to swim in the lake. ")
+print("they found a lump of sand in the water and were questioning why it was there")
+print("one of Keagan friends had a idea, they wanted to dig the sand up to see what was under there")
+print("so they started diging and found that there was a box underthere but its wasnt just a box it was a safe")
+print("the safe had a code on it and we decide to break it open and what was inside")
+print("they found a bunch of old newpapers")
+print("the end")
